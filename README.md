@@ -8,6 +8,8 @@ Zip file contains the application and all of the associated rules.
   
 <li> Admin: RMegan Password: rules </li>
 <li> Initiator: SampleInitiator Password: rules </li>
-<li> Approver: Sample Approver Password rules </li>
+<li> Approver: Sample Approver Password: rules </li>
 
 </ul> </p>
+
+
