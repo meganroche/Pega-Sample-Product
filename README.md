@@ -2,8 +2,6 @@
 
 Zip file contains the application and all of the associated rules.
 
-User Info:
-
 <p> <h4> User Login Details: </h4>
 
 <ul> 
