@@ -1,2 +1,2 @@
-# Pega-Sample-Product
-Sample Product Application
+# Pega Sample Product
+
