@@ -4,10 +4,12 @@ Zip file contains the application and all of the associated rules.
 
 User Info:
 
-<p>Admin: 
+<p> <h4> User Login Details: </h4>
 
-<ul> RMegan Password: rules
+<ul> 
+  
+<li> Admin: RMegan Password: rules </li>
+<li> Initiator: SampleInitiator Password: rules </li>
+<li> Approver: Sample Approver Password rules </li>
 
-Initiator: SampleInitiator Password: rules
-
-Approver: Sample Approver Password rules </ul> </p>
+</ul> </p>
